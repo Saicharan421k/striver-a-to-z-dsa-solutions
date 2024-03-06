@@ -1,0 +1,10 @@
+void nNumberTriangle(int n) {
+    for(int i=1;i<n+1;i++)
+    {
+        for(int j=n;j>i-1;j--)
+        {
+            cout<<n-j+1<<" ";
+        }
+        cout<<endl;
+    }
+}
