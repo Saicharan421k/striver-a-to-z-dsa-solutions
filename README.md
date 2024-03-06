@@ -1,2 +1,5 @@
 # striver-a-to-z-dsa-solutions
-c++
+# coding ninjas solutions
+# leetcode solutions
+# module by module solution 
+written language C++
